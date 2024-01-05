@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Authy",
-  description: "An advanced authentication service platform",
+  description: "An authentication service platform",
 };
 
 export default function RootLayout({
