@@ -8,8 +8,8 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "../ui/dropdown-menu";
-import { LogoutButton } from "./logout-button";
 import { LogOut } from "lucide-react";
+import { LogoutButton } from "./logout-button";
 
 export const UserButton = () => {
   const user = useCurrentUser();
